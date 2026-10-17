@@ -20,6 +20,12 @@
   <p>Shows in which country a Tesla Roadster reservation is cheaper than the United States.</p>
 </div>
 
+<p align="center">
+  <img src="1.jpg" alt="Reserve page with the Roadster Ledger button" width="800" />
+  <img src="2.jpg" alt="Cheapest Performance and Thrust list" width="800" />
+  <img src="3.jpg" alt="Country list with the price comparison" width="800" />
+</p>
+
 ## What it does
 
 The extension runs on the [Roadster reserve page](https://www.tesla.com/roadster/reserve).

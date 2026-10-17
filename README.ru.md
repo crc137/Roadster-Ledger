@@ -20,6 +20,12 @@
   <p>Показывает, в какой стране бронь Tesla Roadster дешевле, чем в США.</p>
 </div>
 
+<p align="center">
+  <img src="1.jpg" alt="Страница брони с кнопкой Roadster Ledger" width="800" />
+  <img src="2.jpg" alt="Список самых дешёвых Performance и Thrust" width="800" />
+  <img src="3.jpg" alt="Список стран со сравнением цены" width="800" />
+</p>
+
 ## Что делает
 
 Расширение работает на [странице брони Roadster](https://www.tesla.com/roadster/reserve).
